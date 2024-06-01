@@ -1,0 +1,39 @@
+*
+{
+    margin:0;
+    justify-content: center;
+    box-shadow: 0;
+}
+body{
+    background-color:aqua;
+    /* justify-content:auto; */
+
+
+}
+
+.box{
+    width:400px;
+    height:300px;
+    border-color:   7px solid greenyellow;
+    background-color:paleturquoise;
+    justify-content:space-evenly;
+    box-shadow: 200px;
+    touch-action: auto;
+    cursor: pointer;
+    margin-inline-end: auto;
+    border-color: blue;
+    border-radius: 50%;
+
+
+
+}
+.box1{
+    width:400px;
+    height:300px;
+    background-color: blueviolet;
+    border-radius:30%;
+    background-image: url(/png/virat.png);
+    box-shadow: 0 190px 150px blue;
+    transition: 131s;
+}
+
